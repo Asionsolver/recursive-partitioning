@@ -7,6 +7,10 @@ This project is an interactive color-splitting app where users can divide the sc
 - Random Colors: Each new partition generates a unique color.
 - Partition Removal: Remove any partition with the "-" button.
 
+## This is my application screenshot
+
+![Screenshot](./src/assets/Screenshot.png)
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
